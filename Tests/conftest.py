@@ -8,7 +8,7 @@ def pytest_addoption(parser):
         "--browser_name", action="store", default="chrome"
     )
     parser.addoption(
-        "--driver_path", action="store", default="/home/cbnits/Downloads/chromedriver"       
+        "--driver_path", action="store", default="/home/cbnits/Documents/Makemytrip_Assignment/chromedriver"       
     )
 
 @pytest.fixture(scope="class")
@@ -22,6 +22,7 @@ def driver_setup(request):
         # service_obj = Service("/home/cbnits/Downloads/chromedriver")
         service_obj = Service(driver_path)
         driver = webdriver.Chrome(service=service_obj, options=chrome_options)
+        # driver = webdriver.Chrome(service=service_obj)
     driver.get(BASE_URL)
     driver.maximize_window()
     request.cls.driver = driver
