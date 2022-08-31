@@ -379,3 +379,2148 @@ Stacktrace:
 2022-08-30 17:09:55,989 : INFO : test_makemytrip : Successfully click on proceed to pay Button
 2022-08-30 17:09:55,989 : INFO : test_makemytrip : Successfully click on proceed to pay Button
 2022-08-30 17:09:55,989 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:08:24,405 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:08:32,932 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:08:32,932 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:08:37,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:08:37,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:08:37,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:08:37,733 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:08:37,733 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:08:37,733 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:08:37,733 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,980 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,981 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:37,988 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,802 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:47,867 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:08:49,978 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:09:04,671 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x562416459403 <unknown>
+#1 0x56241625f778 <unknown>
+#2 0x562416296c87 <unknown>
+#3 0x562416296e51 <unknown>
+#4 0x5624162c9f24 <unknown>
+#5 0x5624162b4a2d <unknown>
+#6 0x5624162c7c74 <unknown>
+#7 0x5624162b48f3 <unknown>
+#8 0x56241628a0d8 <unknown>
+#9 0x56241628b205 <unknown>
+#10 0x5624164a0e3d <unknown>
+#11 0x5624164a3db6 <unknown>
+#12 0x56241648a13e <unknown>
+#13 0x5624164a49b5 <unknown>
+#14 0x56241647e970 <unknown>
+#15 0x5624164c1228 <unknown>
+#16 0x5624164c13bf <unknown>
+#17 0x5624164dbabe <unknown>
+#18 0x7f6810701609 <unknown>
+
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,722 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:14,904 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:09:16,994 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:10:13,776 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:10:22,708 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:10:22,708 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:10:28,072 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:10:28,072 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:10:28,072 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:10:28,076 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:10:28,076 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:10:28,076 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:10:28,076 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:10:28,389 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:10:28,389 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:10:28,389 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:10:28,389 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:10:28,389 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,390 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,391 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:28,398 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,209 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:38,282 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:40,397 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:10:55,067 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55c7d8cd7403 <unknown>
+#1 0x55c7d8add778 <unknown>
+#2 0x55c7d8b14c87 <unknown>
+#3 0x55c7d8b14e51 <unknown>
+#4 0x55c7d8b47f24 <unknown>
+#5 0x55c7d8b32a2d <unknown>
+#6 0x55c7d8b45c74 <unknown>
+#7 0x55c7d8b328f3 <unknown>
+#8 0x55c7d8b080d8 <unknown>
+#9 0x55c7d8b09205 <unknown>
+#10 0x55c7d8d1ee3d <unknown>
+#11 0x55c7d8d21db6 <unknown>
+#12 0x55c7d8d0813e <unknown>
+#13 0x55c7d8d229b5 <unknown>
+#14 0x55c7d8cfc970 <unknown>
+#15 0x55c7d8d3f228 <unknown>
+#16 0x55c7d8d3f3bf <unknown>
+#17 0x55c7d8d59abe <unknown>
+#18 0x7f5acf3a7609 <unknown>
+
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,093 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:05,274 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:11:09,418 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:12:08,919 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:12:17,384 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:12:17,384 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:12:22,088 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:12:22,088 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:12:22,088 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:12:22,104 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:12:22,104 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:12:22,104 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:12:22,104 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:12:22,418 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:12:22,418 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:12:22,418 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:12:22,418 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:12:22,418 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,419 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,420 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:22,425 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,323 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:32,396 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:34,538 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:12:49,181 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x56163df72403 <unknown>
+#1 0x56163dd78778 <unknown>
+#2 0x56163ddafc87 <unknown>
+#3 0x56163ddafe51 <unknown>
+#4 0x56163dde2f24 <unknown>
+#5 0x56163ddcda2d <unknown>
+#6 0x56163dde0c74 <unknown>
+#7 0x56163ddcd8f3 <unknown>
+#8 0x56163dda30d8 <unknown>
+#9 0x56163dda4205 <unknown>
+#10 0x56163dfb9e3d <unknown>
+#11 0x56163dfbcdb6 <unknown>
+#12 0x56163dfa313e <unknown>
+#13 0x56163dfbd9b5 <unknown>
+#14 0x56163df97970 <unknown>
+#15 0x56163dfda228 <unknown>
+#16 0x56163dfda3bf <unknown>
+#17 0x56163dff4abe <unknown>
+#18 0x7f2698a3a609 <unknown>
+
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,234 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:12:59,421 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:13:03,565 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:14:36,451 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:14:45,164 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:14:45,164 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:14:50,129 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:14:50,129 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:14:50,129 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:14:50,133 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:14:50,133 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:14:50,133 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:14:50,133 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,368 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,369 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:14:50,377 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,147 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:00,217 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:02,330 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:15:16,947 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x556bf6b16403 <unknown>
+#1 0x556bf691c778 <unknown>
+#2 0x556bf6953c87 <unknown>
+#3 0x556bf6953e51 <unknown>
+#4 0x556bf6986f24 <unknown>
+#5 0x556bf6971a2d <unknown>
+#6 0x556bf6984c74 <unknown>
+#7 0x556bf69718f3 <unknown>
+#8 0x556bf69470d8 <unknown>
+#9 0x556bf6948205 <unknown>
+#10 0x556bf6b5de3d <unknown>
+#11 0x556bf6b60db6 <unknown>
+#12 0x556bf6b4713e <unknown>
+#13 0x556bf6b619b5 <unknown>
+#14 0x556bf6b3b970 <unknown>
+#15 0x556bf6b7e228 <unknown>
+#16 0x556bf6b7e3bf <unknown>
+#17 0x556bf6b98abe <unknown>
+#18 0x7fb626349609 <unknown>
+
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:26,966 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:27,168 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:15:31,284 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:18:21,326 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:18:29,885 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:18:29,885 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:18:34,972 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:18:34,972 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:18:34,972 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:18:34,976 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:18:34,976 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:18:34,976 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:18:34,976 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:18:35,210 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:18:35,210 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:18:35,210 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:18:35,210 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:18:35,210 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,211 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,212 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:35,218 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,925 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:45,998 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:18:48,119 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:19:02,784 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55e7a8c57403 <unknown>
+#1 0x55e7a8a5d778 <unknown>
+#2 0x55e7a8a94c87 <unknown>
+#3 0x55e7a8a94e51 <unknown>
+#4 0x55e7a8ac7f24 <unknown>
+#5 0x55e7a8ab2a2d <unknown>
+#6 0x55e7a8ac5c74 <unknown>
+#7 0x55e7a8ab28f3 <unknown>
+#8 0x55e7a8a880d8 <unknown>
+#9 0x55e7a8a89205 <unknown>
+#10 0x55e7a8c9ee3d <unknown>
+#11 0x55e7a8ca1db6 <unknown>
+#12 0x55e7a8c8813e <unknown>
+#13 0x55e7a8ca29b5 <unknown>
+#14 0x55e7a8c7c970 <unknown>
+#15 0x55e7a8cbf228 <unknown>
+#16 0x55e7a8cbf3bf <unknown>
+#17 0x55e7a8cd9abe <unknown>
+#18 0x7f3bd510f609 <unknown>
+
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,801 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:12,974 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:19:17,104 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:21:32,259 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:21:41,217 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:21:41,217 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:21:45,422 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:21:45,422 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:21:45,422 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:21:45,439 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:21:45,439 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:21:45,439 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:21:45,439 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:21:45,635 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:21:45,635 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:21:45,635 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:21:45,635 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:21:45,635 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,636 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,637 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:45,647 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,488 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:55,562 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:21:57,689 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:22:12,342 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x56477e537403 <unknown>
+#1 0x56477e33d778 <unknown>
+#2 0x56477e374c87 <unknown>
+#3 0x56477e374e51 <unknown>
+#4 0x56477e3a7f24 <unknown>
+#5 0x56477e392a2d <unknown>
+#6 0x56477e3a5c74 <unknown>
+#7 0x56477e3928f3 <unknown>
+#8 0x56477e3680d8 <unknown>
+#9 0x56477e369205 <unknown>
+#10 0x56477e57ee3d <unknown>
+#11 0x56477e581db6 <unknown>
+#12 0x56477e56813e <unknown>
+#13 0x56477e5829b5 <unknown>
+#14 0x56477e55c970 <unknown>
+#15 0x56477e59f228 <unknown>
+#16 0x56477e59f3bf <unknown>
+#17 0x56477e5b9abe <unknown>
+#18 0x7febebebb609 <unknown>
+
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,365 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:22,538 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:22:26,685 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:24:54,454 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:25:03,949 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:25:03,949 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:25:08,908 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:25:08,908 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:25:08,908 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:25:08,914 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:25:08,914 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:25:08,914 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:25:08,914 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:25:09,156 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:25:09,156 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:25:09,156 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:25:09,156 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:25:09,156 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,157 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,158 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:09,163 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,006 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:19,080 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:21,235 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:25:35,909 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55d83d7ca403 <unknown>
+#1 0x55d83d5d0778 <unknown>
+#2 0x55d83d607c87 <unknown>
+#3 0x55d83d607e51 <unknown>
+#4 0x55d83d63af24 <unknown>
+#5 0x55d83d625a2d <unknown>
+#6 0x55d83d638c74 <unknown>
+#7 0x55d83d6258f3 <unknown>
+#8 0x55d83d5fb0d8 <unknown>
+#9 0x55d83d5fc205 <unknown>
+#10 0x55d83d811e3d <unknown>
+#11 0x55d83d814db6 <unknown>
+#12 0x55d83d7fb13e <unknown>
+#13 0x55d83d8159b5 <unknown>
+#14 0x55d83d7ef970 <unknown>
+#15 0x55d83d832228 <unknown>
+#16 0x55d83d8323bf <unknown>
+#17 0x55d83d84cabe <unknown>
+#18 0x7ffbd6dc1609 <unknown>
+
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:45,933 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:46,115 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:25:50,233 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:06,058 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:30:15,520 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:30:15,520 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:30:19,891 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:30:19,891 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:30:19,891 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:30:19,900 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:30:19,900 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:30:19,900 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:30:19,900 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:30:20,136 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:30:20,136 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:30:20,136 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:30:20,136 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:30:20,136 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,137 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,138 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:20,145 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,052 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:30,121 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:32,248 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:30:44,859 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x559c2ee04403 <unknown>
+#1 0x559c2ec0a778 <unknown>
+#2 0x559c2ec41c87 <unknown>
+#3 0x559c2ec41e51 <unknown>
+#4 0x559c2ec74f24 <unknown>
+#5 0x559c2ec5fa2d <unknown>
+#6 0x559c2ec72c74 <unknown>
+#7 0x559c2ec5f8f3 <unknown>
+#8 0x559c2ec350d8 <unknown>
+#9 0x559c2ec36205 <unknown>
+#10 0x559c2ee4be3d <unknown>
+#11 0x559c2ee4edb6 <unknown>
+#12 0x559c2ee3513e <unknown>
+#13 0x559c2ee4f9b5 <unknown>
+#14 0x559c2ee29970 <unknown>
+#15 0x559c2ee6c228 <unknown>
+#16 0x559c2ee6c3bf <unknown>
+#17 0x559c2ee86abe <unknown>
+#18 0x7f20c759e609 <unknown>
+
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:54,922 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:55,077 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:30:59,223 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:35:43,156 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 20:35:52,501 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:35:52,501 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 20:35:56,820 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:35:56,820 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:35:56,820 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 20:35:56,825 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:35:56,825 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:35:56,825 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:35:56,825 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 20:35:59,031 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:35:59,031 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:35:59,031 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:35:59,031 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:35:59,031 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,033 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,034 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:35:59,040 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,882 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:08,968 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:11,087 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 20:36:23,742 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x56538567e403 <unknown>
+#1 0x565385484778 <unknown>
+#2 0x5653854bbc87 <unknown>
+#3 0x5653854bbe51 <unknown>
+#4 0x5653854eef24 <unknown>
+#5 0x5653854d9a2d <unknown>
+#6 0x5653854ecc74 <unknown>
+#7 0x5653854d98f3 <unknown>
+#8 0x5653854af0d8 <unknown>
+#9 0x5653854b0205 <unknown>
+#10 0x5653856c5e3d <unknown>
+#11 0x5653856c8db6 <unknown>
+#12 0x5653856af13e <unknown>
+#13 0x5653856c99b5 <unknown>
+#14 0x5653856a3970 <unknown>
+#15 0x5653856e6228 <unknown>
+#16 0x5653856e63bf <unknown>
+#17 0x565385700abe <unknown>
+#18 0x7fe749470609 <unknown>
+
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,757 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:33,917 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 20:36:38,079 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:31:20,941 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 21:31:29,484 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:31:29,484 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:31:34,001 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:31:34,001 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:31:34,001 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:31:34,004 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:31:34,004 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:31:34,004 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:31:34,004 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:31:36,197 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:31:36,197 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:31:36,197 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:31:36,197 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:31:36,197 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,198 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,199 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:36,204 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,005 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:46,079 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:31:48,174 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:32:00,807 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x5624bf108403 <unknown>
+#1 0x5624bef0e778 <unknown>
+#2 0x5624bef45c87 <unknown>
+#3 0x5624bef45e51 <unknown>
+#4 0x5624bef78f24 <unknown>
+#5 0x5624bef63a2d <unknown>
+#6 0x5624bef76c74 <unknown>
+#7 0x5624bef638f3 <unknown>
+#8 0x5624bef390d8 <unknown>
+#9 0x5624bef3a205 <unknown>
+#10 0x5624bf14fe3d <unknown>
+#11 0x5624bf152db6 <unknown>
+#12 0x5624bf13913e <unknown>
+#13 0x5624bf1539b5 <unknown>
+#14 0x5624bf12d970 <unknown>
+#15 0x5624bf170228 <unknown>
+#16 0x5624bf1703bf <unknown>
+#17 0x5624bf18aabe <unknown>
+#18 0x7f7484cd7609 <unknown>
+
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:10,827 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:11,051 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:32:15,128 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:46:43,693 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 21:46:52,070 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:46:52,070 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:46:56,920 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:46:56,920 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:46:56,920 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:46:56,928 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:46:56,928 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:46:56,928 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:46:56,928 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:46:59,111 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:46:59,111 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:46:59,111 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:46:59,111 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:46:59,111 : INFO : test_makemytrip : List of flight ['Economy Basic', 'Economy Semi Flex']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,112 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 17,007']
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,113 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:46:59,119 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:08,929 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:09,000 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:11,089 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:47:23,745 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x555b4ae61403 <unknown>
+#1 0x555b4ac67778 <unknown>
+#2 0x555b4ac9ec87 <unknown>
+#3 0x555b4ac9ee51 <unknown>
+#4 0x555b4acd1f24 <unknown>
+#5 0x555b4acbca2d <unknown>
+#6 0x555b4accfc74 <unknown>
+#7 0x555b4acbc8f3 <unknown>
+#8 0x555b4ac920d8 <unknown>
+#9 0x555b4ac93205 <unknown>
+#10 0x555b4aea8e3d <unknown>
+#11 0x555b4aeabdb6 <unknown>
+#12 0x555b4ae9213e <unknown>
+#13 0x555b4aeac9b5 <unknown>
+#14 0x555b4ae86970 <unknown>
+#15 0x555b4aec9228 <unknown>
+#16 0x555b4aec93bf <unknown>
+#17 0x555b4aee3abe <unknown>
+#18 0x7fa10b996609 <unknown>
+
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,793 : INFO : test_makemytrip : Meal option is not available
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:33,979 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:47:38,080 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:56:40,811 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-30 21:56:49,530 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:56:49,530 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-30 21:56:54,082 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:56:54,082 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:56:54,082 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'SpiceJet', 'Air India', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'AirAsia', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-30 21:56:54,095 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:56:54,095 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:56:54,095 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:56:54,095 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-30 21:56:56,311 : INFO : test_makemytrip : List of flight ['Spicesaver', 'Spicemax', 'Spiceflex']
+2022-08-30 21:56:56,311 : INFO : test_makemytrip : List of flight ['Spicesaver', 'Spicemax', 'Spiceflex']
+2022-08-30 21:56:56,311 : INFO : test_makemytrip : List of flight ['Spicesaver', 'Spicemax', 'Spiceflex']
+2022-08-30 21:56:56,311 : INFO : test_makemytrip : List of flight ['Spicesaver', 'Spicemax', 'Spiceflex']
+2022-08-30 21:56:56,311 : INFO : test_makemytrip : List of flight ['Spicesaver', 'Spicemax', 'Spiceflex']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : List of flight prices ['₹ 7,976', '₹ 9,972', '₹ 9,972']
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,312 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:56:56,318 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,099 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:06,174 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:08,271 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:11,209 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-30 21:57:23,726 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x5576ad26e403 <unknown>
+#1 0x5576ad074778 <unknown>
+#2 0x5576ad0abc87 <unknown>
+#3 0x5576ad0abe51 <unknown>
+#4 0x5576ad0def24 <unknown>
+#5 0x5576ad0c9a2d <unknown>
+#6 0x5576ad0dcc74 <unknown>
+#7 0x5576ad0c98f3 <unknown>
+#8 0x5576ad09f0d8 <unknown>
+#9 0x5576ad0a0205 <unknown>
+#10 0x5576ad2b5e3d <unknown>
+#11 0x5576ad2b8db6 <unknown>
+#12 0x5576ad29f13e <unknown>
+#13 0x5576ad2b99b5 <unknown>
+#14 0x5576ad293970 <unknown>
+#15 0x5576ad2d6228 <unknown>
+#16 0x5576ad2d63bf <unknown>
+#17 0x5576ad2f0abe <unknown>
+#18 0x7fb69fa6b609 <unknown>
+
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-30 21:57:37,833 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:04:05,535 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-31 12:04:13,871 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 12:04:13,871 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 12:04:18,776 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 12:04:18,776 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 12:04:18,776 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 12:04:18,789 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 12:04:18,789 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 12:04:18,789 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 12:04:18,789 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,987 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,988 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:20,995 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:30,932 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:31,010 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:33,152 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 12:04:45,834 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x56201fcd7403 <unknown>
+#1 0x56201fadd778 <unknown>
+#2 0x56201fb14c87 <unknown>
+#3 0x56201fb14e51 <unknown>
+#4 0x56201fb47f24 <unknown>
+#5 0x56201fb32a2d <unknown>
+#6 0x56201fb45c74 <unknown>
+#7 0x56201fb328f3 <unknown>
+#8 0x56201fb080d8 <unknown>
+#9 0x56201fb09205 <unknown>
+#10 0x56201fd1ee3d <unknown>
+#11 0x56201fd21db6 <unknown>
+#12 0x56201fd0813e <unknown>
+#13 0x56201fd229b5 <unknown>
+#14 0x56201fcfc970 <unknown>
+#15 0x56201fd3f228 <unknown>
+#16 0x56201fd3f3bf <unknown>
+#17 0x56201fd59abe <unknown>
+#18 0x7f3874e7a609 <unknown>
+
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:55,872 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:04:56,053 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 12:05:00,204 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:35:36,249 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-31 14:35:44,157 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 14:35:44,157 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 14:35:48,671 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:35:48,671 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:35:48,671 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:35:48,677 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:35:48,677 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:35:48,677 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:35:48,677 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:35:50,887 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:35:50,887 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:35:50,887 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:35:50,887 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:35:50,887 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,888 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,889 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:35:50,895 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,670 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:00,736 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:02,882 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:36:15,548 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x5633f1240403 <unknown>
+#1 0x5633f1046778 <unknown>
+#2 0x5633f107dc87 <unknown>
+#3 0x5633f107de51 <unknown>
+#4 0x5633f10b0f24 <unknown>
+#5 0x5633f109ba2d <unknown>
+#6 0x5633f10aec74 <unknown>
+#7 0x5633f109b8f3 <unknown>
+#8 0x5633f10710d8 <unknown>
+#9 0x5633f1072205 <unknown>
+#10 0x5633f1287e3d <unknown>
+#11 0x5633f128adb6 <unknown>
+#12 0x5633f127113e <unknown>
+#13 0x5633f128b9b5 <unknown>
+#14 0x5633f1265970 <unknown>
+#15 0x5633f12a8228 <unknown>
+#16 0x5633f12a83bf <unknown>
+#17 0x5633f12c2abe <unknown>
+#18 0x7f2098f06609 <unknown>
+
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,596 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:25,763 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:36:29,906 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:40:47,645 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-31 14:40:55,689 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 14:40:55,689 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 14:41:00,360 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:41:00,360 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:41:00,360 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 14:41:00,364 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:41:00,364 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:41:00,364 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:41:00,364 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 14:41:02,547 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:41:02,547 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:41:02,547 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:41:02,547 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:41:02,547 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,548 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,549 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:02,555 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,356 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:12,424 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:14,570 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 14:41:27,244 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x55c129b59403 <unknown>
+#1 0x55c12995f778 <unknown>
+#2 0x55c129996c87 <unknown>
+#3 0x55c129996e51 <unknown>
+#4 0x55c1299c9f24 <unknown>
+#5 0x55c1299b4a2d <unknown>
+#6 0x55c1299c7c74 <unknown>
+#7 0x55c1299b48f3 <unknown>
+#8 0x55c12998a0d8 <unknown>
+#9 0x55c12998b205 <unknown>
+#10 0x55c129ba0e3d <unknown>
+#11 0x55c129ba3db6 <unknown>
+#12 0x55c129b8a13e <unknown>
+#13 0x55c129ba49b5 <unknown>
+#14 0x55c129b7e970 <unknown>
+#15 0x55c129bc1228 <unknown>
+#16 0x55c129bc13bf <unknown>
+#17 0x55c129bdbabe <unknown>
+#18 0x7f5db0329609 <unknown>
+
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,272 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:37,454 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 14:41:41,566 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:00:32,399 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-31 15:00:40,528 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 15:00:40,528 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 15:00:44,872 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:00:44,872 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:00:44,872 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:00:44,876 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:00:44,876 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:00:44,876 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:00:44,876 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:00:47,076 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:00:47,076 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:00:47,076 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:00:47,076 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:00:47,076 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,077 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,078 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:47,085 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,889 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:56,956 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:00:59,088 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:01:11,748 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x5635c4f12403 <unknown>
+#1 0x5635c4d18778 <unknown>
+#2 0x5635c4d4fc87 <unknown>
+#3 0x5635c4d4fe51 <unknown>
+#4 0x5635c4d82f24 <unknown>
+#5 0x5635c4d6da2d <unknown>
+#6 0x5635c4d80c74 <unknown>
+#7 0x5635c4d6d8f3 <unknown>
+#8 0x5635c4d430d8 <unknown>
+#9 0x5635c4d44205 <unknown>
+#10 0x5635c4f59e3d <unknown>
+#11 0x5635c4f5cdb6 <unknown>
+#12 0x5635c4f4313e <unknown>
+#13 0x5635c4f5d9b5 <unknown>
+#14 0x5635c4f37970 <unknown>
+#15 0x5635c4f7a228 <unknown>
+#16 0x5635c4f7a3bf <unknown>
+#17 0x5635c4f94abe <unknown>
+#18 0x7f59e039f609 <unknown>
+
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,782 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:21,957 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:01:26,072 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:05:24,535 : INFO : test_makemytrip : MakeMyTrip - #1 Travel Website 50% OFF on Hotels, Flights & Holiday
+2022-08-31 15:05:32,516 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 15:05:32,516 : INFO : test_makemytrip : Successfully click on Search Button
+2022-08-31 15:05:36,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:05:36,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:05:36,725 : INFO : test_makemytrip : List of Airlines ['SpiceJet', 'Air India', 'Air India', 'AirAsia', 'SpiceJet', 'Go First', 'Vistara', 'Vistara', 'Vistara', 'Go First', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo', 'IndiGo']
+2022-08-31 15:05:36,735 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:05:36,735 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:05:36,735 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:05:36,735 : INFO : test_makemytrip : Successfully click on View Price Button
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight ['Economy Saver', 'Economy Basic']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,943 : INFO : test_makemytrip : List of flight prices ['₹ 7,977', '₹ 9,132']
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,944 : INFO : test_makemytrip : Successfully click on Book Now Button
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:38,949 : INFO : test_makemytrip : Successfully switch to the new tab
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,744 : INFO : test_makemytrip : Successfully Fill all the details
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:48,814 : INFO : test_makemytrip : Successfully click on Continue Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:05:50,953 : INFO : test_makemytrip : Successfully click on Confirm Button
+2022-08-31 15:06:03,636 : INFO : wait_clickable : Message: 
+Stacktrace:
+#0 0x559a7ed14403 <unknown>
+#1 0x559a7eb1a778 <unknown>
+#2 0x559a7eb51c87 <unknown>
+#3 0x559a7eb51e51 <unknown>
+#4 0x559a7eb84f24 <unknown>
+#5 0x559a7eb6fa2d <unknown>
+#6 0x559a7eb82c74 <unknown>
+#7 0x559a7eb6f8f3 <unknown>
+#8 0x559a7eb450d8 <unknown>
+#9 0x559a7eb46205 <unknown>
+#10 0x559a7ed5be3d <unknown>
+#11 0x559a7ed5edb6 <unknown>
+#12 0x559a7ed4513e <unknown>
+#13 0x559a7ed5f9b5 <unknown>
+#14 0x559a7ed39970 <unknown>
+#15 0x559a7ed7c228 <unknown>
+#16 0x559a7ed7c3bf <unknown>
+#17 0x559a7ed96abe <unknown>
+#18 0x7f19cf121609 <unknown>
+
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,646 : INFO : test_makemytrip : Meal option is not available
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:13,816 : INFO : test_makemytrip : Successfully selected seat and click on continue Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button
+2022-08-31 15:06:17,973 : INFO : test_makemytrip : Successfully click on proceed to pay Button

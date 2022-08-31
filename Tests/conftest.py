@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 import pytest
 
+
 def pytest_addoption(parser):
     parser.addoption(
         "--browser_name", action="store", default="chrome"
